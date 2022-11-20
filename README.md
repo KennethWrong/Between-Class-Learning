@@ -36,7 +36,21 @@ Clone the project
 
 - **Training and Testing functions**
   - Code For training and testing the models is taken from Purdue's ECE57000 Assignments.
+
 ## Results
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Image preprocessing steps
+![Image of preprocessing process](https://github.com/KennethWrong/Between-Class-Learning/blob/main/images/preprocess.png?raw=true)
+
+### Example of images after preprocessing and mixing
+![Example of images after preprocessing and mixing](https://github.com/KennethWrong/Between-Class-Learning/blob/main/images/image_transform.png?raw=true)
+
+### Accuracy of models after training with various mixing algorithms
+![Accuracy of models after training](https://github.com/KennethWrong/Between-Class-Learning/blob/main/images/result_table.png?raw=true)
+
+### Loss of model trained with BC mixing algorithm
+![Loss of models trained over BC mixing algorithm](https://github.com/KennethWrong/Between-Class-Learning/blob/main/images/bc_loss.png?raw=true)
+
+### Loss of model trained with BC+ mixing algorithm
+![Loss of models trained over BC+ mixing algorithm](https://github.com/KennethWrong/Between-Class-Learning/blob/main/images/bc_plus_loss.png?raw=true)
 
